@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SLATE",
+				"SlateCore"
+			],
+			[
+				"Pro",
+				"PROJECT"
+			],
+			[
+				"prj",
+				"PROJECT_DIr"
+			],
+			[
+				"umc",
+				"umcp"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"id",
+				"id_number"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"pro",
+				"Project Manager"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/wow-1/Documents/Unreal Projects/MyProcedural/Source/MySlider/SMySlider.h",
+		"/C/Users/wow-1/Documents/Unreal Projects/MyProcedural/Source/MySlider/SMySlider.cpp",
+		"/C/Users/wow-1/Documents/Unreal Projects/MyProcedural/Source/MySlider/MySlider.h",
+		"/C/Users/wow-1/Documents/Unreal Projects/MyProcedural/Source/MySlider/MySlider.cpp",
+		"/D/hobby/Eird/Source/EirdCore/Private/SMySlider.cpp",
+		"/D/hobby/Eird/Source/EirdCore/Public/SMySlider.h",
+		"/D/hobby/Eird/Source/EirdCore/EirdCore.Build.cs",
+		"/D/hobby/Eird/Source/EirdCore/Public/EirdCore.h",
+		"/D/hobby/Eird/Source/EirdCore/Private/MySlider.cpp",
+		"/D/hobby/Eird/Source/EirdCore/Public/MySlider.h",
+		"/C/Users/wow-1/Documents/Unreal Projects/MyProcedural/Source/MyProcedural.Target.cs",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/SlateCore/Public/Styling/ISlateStyle.h",
+		"/D/hobby/Eird/Source/Eird.target.cs",
+		"/D/hobby/chcp",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/UMG/Public/Components/Widget.h",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/SlateCore/Public/Styling/UMGCoreStyle.h",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/SlateCore/Public/Rendering/DrawElements.h",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Slate/Public/Framework/Application/SlateApplication.h",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Slate/Public/Widgets/Accessibility/SlateAccessibleWidgets.h",
+		"/D/hobby/Eird/Source/EirdCore/Public/MySSlider.h",
+		"/D/hobby/Eird/Source/EirdCore/Private/SSlider.cpp",
+		"/D/hobby/Eird/Source/EirdCore/Public/SSlider.h",
+		"/D/hobby/Eird/Source/EirdCore/Private/Slider.cpp",
+		"/D/hobby/Eird/Source/EirdCore/Public/MYSSlider.h",
+		"/D/hobby/Eird/Source/EirdCore/Public/Slider.h",
+		"/D/hobby/Eird/Source/EirdCore/Private/MySSlider.cpp",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/ApplicationCore/Public/GenericPlatform/ICursor.h",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/UMG/Private/Components/Widget.cpp",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Slate/Private/Widgets/Input/SSlider.cpp",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Slate/Public/Widgets/Input/SSlider.h",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/UMG/Private/Components/Slider.cpp",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/UMG/Public/Components/Slider.h",
+		"/D/hobby/Eird/Source/EirdCore/Public/TestActor.h",
+		"/D/hobby/Eird/Source/EirdCore/Public/STestActor.h",
+		"/D/hobby/Eird/Source/EirdCore/Private/TestActor.cpp",
+		"/D/hobby/Eird/Source/EirdCore/Private/STestActor.cpp",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/AdvancedWidgets/Private/Slate/SRadialSlider.cpp",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/AdvancedWidgets/Public/Slate/SRadialSlider.h",
+		"/D/hobby/editor.bat",
+		"/D/hobby/vars.bat",
+		"/D/hobby/build.bat",
+		"/C/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/UnrealEditor.exe",
+		"/D/hobby/Eird/Source/EirdCore/Private/Log.h",
+		"/D/hobby/Eird/Source/EirdCore/Private/Log.cpp",
+		"/D/hobby/Eird/Binaries/Win64/UnrealEditor.modules",
+		"/D/hobby/Eird/Eird.uproject",
+		"/D/hobby/Eird/Source/EirdEditor.target.cs",
+		"/D/hobby/Eird/Source/EirdCore/Private/EirdCore.cpp",
+		"/C/Users/wow-1/Desktop/Новая папка (2)/wayuphw.html",
+		"/C/Users/wow-1/Desktop/Новая папка (2)/css/stylewayuphw.css",
+		"/C/Users/wow-1/Desktop/дз4/chooser.html",
+		"/C/Users/wow-1/Desktop/дз4/FontChooser.js",
+		"/C/Users/wow-1/Desktop/дз3 квери/calc.html",
+		"/C/Users/wow-1/Desktop/дз3 квери/calc.js",
+		"/C/Users/wow-1/Desktop/дз3 квери/jquery.js",
+		"/C/Users/wow-1/Desktop/Настя/nastya.js",
+		"/C/Users/wow-1/Desktop/Настя/nastya.html",
+		"/C/Users/wow-1/Desktop/дз2 жаваскрыпт/petstore.js",
+		"/C/Users/wow-1/Desktop/дз2 жаваскрыпт/petstore.html",
+		"/C/OpenServer/domains/localhost/index.php",
+		"/C/Users/wow-1/Desktop/web/style.css",
+		"/C/Users/wow-1/Desktop/web/index.html",
+		"/C/Users/wow-1/Desktop/calendar.html",
+		"/C/Users/wow-1/Desktop/calendar.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"api",
+			"\"MySlider\"",
+			"\"Slider\"",
+			"cursor",
+			"\"Slider\"",
+			"INPUTCORE_API",
+			"InputCore_API",
+			"API_InputCore",
+			"api",
+			"Slider",
+			"USlider",
+			"SSlider",
+			"USlider",
+			"setcur",
+			"Slider",
+			"SSlider",
+			"SetCursor",
+			"ResizeLeftRight",
+			"CachedCursor",
+			"EMouseCursor::Type",
+			"cursor",
+			"OnMouseCaptureBegin",
+			"cursor",
+			"slider",
+			"yetToCalc",
+			"shouldRestart",
+			"act",
+			"prev",
+			"colspa",
+			"<th colspan=\"2\">",
+			"<td colspan=\"4\"",
+			"<td colspan=\"2\">",
+			"class=\"event appointment\"",
+			"li style=",
+			"li class= style=",
+			"li class=\"*\" style=",
+			"li class=\"э*\" style=",
+			"li class=* style="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"MySlider\"",
+			"SMySlider",
+			"UMySlider",
+			"TestActor",
+			"STestActor",
+			"TestActor",
+			"STestActor",
+			"calculated",
+			"<th>",
+			"<td colspan=\"2\"",
+			"<td>"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MyProcedural.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"widget",
+				"Runtime\\UMG\\Public\\Components\\Widget.h"
+			],
+			[
+				"umgcore",
+				"Runtime\\SlateCore\\Public\\Styling\\UMGCoreStyle.h"
+			],
+			[
+				"drawele",
+				"Runtime\\SlateCore\\Public\\Rendering\\DrawElements.h"
+			],
+			[
+				"slateacc",
+				"Runtime\\Slate\\Public\\Widgets\\Accessibility\\SlateAccessibleWidgets.h"
+			],
+			[
+				"slateappl",
+				"Runtime\\Slate\\Public\\Framework\\Application\\SlateApplication.h"
+			],
+			[
+				"SSlider",
+				"Runtime\\Slate\\Public\\Widgets\\Input\\SSlider.h"
+			],
+			[
+				"sslider",
+				"Runtime\\Slate\\Private\\Widgets\\Input\\SSlider.cpp"
+			],
+			[
+				"SRadialSlider",
+				"Runtime\\AdvancedWidgets\\Private\\Slate\\SRadialSlider.cpp"
+			],
+			[
+				"widget.cp",
+				"Runtime\\UMG\\Private\\Components\\Widget.cpp"
+			],
+			[
+				"Slider",
+				"Runtime\\UMG\\Private\\Components\\Slider.cpp"
+			],
+			[
+				"slider",
+				"Runtime\\UMG\\Public\\Components\\Slider.h"
+			],
+			[
+				"test",
+				"Source\\EirdCore\\Private\\TestActor.cpp"
+			],
+			[
+				"",
+				"wayuphw.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
